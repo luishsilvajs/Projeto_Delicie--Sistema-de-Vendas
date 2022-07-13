@@ -1,0 +1,43 @@
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormCardapio.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormClientes.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormFuncionario.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormLogin.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormMenu.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.Properties.Resources.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.csproj.GenerateResource.cache
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.csproj.CoreCompileInputs.cache
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.exe
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.pdb
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.csproj.AssemblyReference.cache
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie.exe.config
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie.exe
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie.pdb
+C:\Users\s_gab\source\repos\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.Leitura.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.csproj.AssemblyReference.cache
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormCardapio.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormClientes.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormFuncionario.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormLogin.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormMenu.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.Properties.Resources.resources
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.csproj.GenerateResource.cache
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.csproj.CoreCompileInputs.cache
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\Projeto_Delicie.exe.config
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.exe
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\obj\Debug\Projeto_Delicie.pdb
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\Projeto_Delicie.exe
+C:\Users\s_gab\source\repos\Projeto_Delicie (Gabriela, Luis Henrique e Diego)\Projeto_Delicie\Projeto_Delicie.pdb
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.csproj.AssemblyReference.cache
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormCardapio.resources
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormClientes.resources
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormFuncionario.resources
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormLogin.resources
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.FormMenu.resources
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.Properties.Resources.resources
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.csproj.GenerateResource.cache
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie.exe.config
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.exe
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\obj\Debug\Projeto_Delicie.pdb
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie.exe
+C:\Users\luisg\Desktop\Projetos\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie\Projeto_Delicie.pdb

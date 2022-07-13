@@ -1,0 +1,33 @@
+══════════════════════════════════════════
+═════════════     Recibo   ═══════════════
+  Data: 15/06/2022 16:03:26
+
+  Cliente: Gabriela
+══════════════════════════════════════════
+══════════════════════════════════════════
+     Itens:                               
+
+Natural de Atum
+Valor Unitário: R$5,50  Quantidade: 1
+Natural de Frango
+Valor Unitário: R$5,50  Quantidade: 1
+Torta de Frango
+Valor Unitário: R$5,00  Quantidade: 1
+X-Duplo
+Valor Unitário: R$5,50  Quantidade: 1
+Pão de Queijo
+Valor Unitário: R$3,50  Quantidade: 1
+
+══════════════════════════════════════════
+Bolo de Banana
+Valor Unitário: R$3,50  Quantidade: 1
+Bolo de Chocolate
+Valor Unitário: R$3,50  Quantidade: 1
+Bolo de Cenoura
+Valor Unitário: R$3,50  Quantidade: 1
+Bolo de Fubá
+Valor Unitário: R$3,50  Quantidade: 1
+
+Valor: R$ 39,00
+══════════════════════════════════════════
+

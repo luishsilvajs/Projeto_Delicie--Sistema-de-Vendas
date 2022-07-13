@@ -1,0 +1,25 @@
+══════════════════════════════════════════
+═════════════     Recibo   ═══════════════
+  Data: 15/06/2022 20:00:35
+
+  Cliente: Luis
+══════════════════════════════════════════
+══════════════════════════════════════════
+     Itens:                               
+
+Natural de Atum
+Valor Unitário: R$5,50  Quantidade: 1
+Natural de Frango
+Valor Unitário: R$5,50  Quantidade: 2
+Pão de Queijo
+Valor Unitário: R$3,50  Quantidade: 4
+
+══════════════════════════════════════════
+Bolo de Banana
+Valor Unitário: R$3,50  Quantidade: 1
+Bolo de Chocolate
+Valor Unitário: R$3,50  Quantidade: 1
+
+Valor: 
+══════════════════════════════════════════
+
